@@ -72,6 +72,3 @@ vibrate()
 
 Good luck!
 
-## Staff Solution
-If you want to play with the staff implementation, you can view it using
-Snack at [@jhhayashi/project1-solution](https://snack.expo.io/@jhhayashi/project1-solution).
